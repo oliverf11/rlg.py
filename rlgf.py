@@ -40,13 +40,6 @@ print(sc)
 sh="x16","1911",".357","m19",".50 Gs","renetti","sykov","1911cw","magnum","diamatti","amp 63","machine pistol","RATT","1911","Top Break","Klauser"
 sl="pila","strela-p","jokr","rpg-7","cigma 2","m79","rpgCW","M1 Bazooka","Panzerschreck","Pazerfaust","MK11 Launcher"
 sm="knife","wakizashi","combat knife cw","machete","sledghammer","e-tool","Balitstic Knife","Fs Fighting Knife","Katana","Sawtooth"
-par="kilo","fal","m4","fr.5.56","oden","m13","scar","ak-47","ram7","grau","cr-56-amax","an-94","as-val","ak-47cw","kirg6","fara 83","qbz-83","ffar","xm4","groza","c58"
-psmg="aug","p90","mp5","uzi","pp19","mp7","striker-45","fennec","iso","mp5cw","ak-74u","bullfrog","ppsh-41","mac-10","ksp 45","milano 821","lc10","nail gun"
-psh="model-680","r9-0","725","origin-12","vlk-rouge","jak-12","gallo","hauer77","streetsweeper"
-plmg="pkm","sa87","m91","mg34","holger-26","bruen-mk9","finn-lmg","stoner 63","rpd","m60","mg 82"
-ptr="m16","dmr 14","aug","type 63","carv.2"
-pmr="ebr-14","mk2","kae98k","crossbow","sks","spr-208","r1 shadowhunter"
-psr="dragunov","hdr","ax-50","rytec-amr","lw3-tundra","swiss k31","m82","pelington","zrg 20mm"
 pm="riot shield","riot sheild","Combat sheild","Combat sheild"
 
 if sc=="melee.":
