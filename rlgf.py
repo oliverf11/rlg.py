@@ -7,7 +7,7 @@ pc=random.choice(p)
 print(pc)
 
 par="kilo","fal","m4","fr.5.56","oden","m13","scar","ak-47","ram7","grau","cr-56-amax","an-94","as-val","ak-47cw","kirg6","fara 83","qbz-83","ffar","xm4","groza","c58","stg44","itera burst","BAR","NZ-41","Volkssturmgewehr","AS44","Automaton","Cooper Carbine","kg m40","Vargo 52"
-psmg="aug","p90","mp5","uzi","pp19","mp7","striker-45","fennec","iso","mp5cw","ak-74u","bullfrog","ppsh-41","mac-10","ksp 45","milano 821","lc10","nail gun","ots9","TEC-9","LAPA","M1912","Sten","MP-40","PPSh-41","Owen Gun","Type 100","welgun"
+psmg="aug","p90","mp5","uzi","pp19","mp7","striker-45","fennec","iso","mp5cw","ak-74u","bullfrog","ppsh-41","mac-10","ksp 45","milano 821","lc10","nail gun","ots9","TEC-9","LAPA","M1912","Sten","MP-40","PPSh-41","Owen Gun","Type 100","welgun","armagurrea 43"
 psh="model-680","r9-0","725","origin-12","vlk-rouge","jak-12","gallo","hauer77","streetsweeper","ironhde","Einhorn Revolving","Gracey Auto","Combat shotgun","Double Barrel"
 plmg="pkm","sa87","m91","mg34","holger-26","bruen-mk9","finn-lmg","stoner 63","rpd","m60","mg 82","Mg42","DP27","Bren","Type 11","whitley"
 ptr="m16","dmr 14","aug","type 63","carv.2"
